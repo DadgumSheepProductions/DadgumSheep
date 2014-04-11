@@ -1,2 +1,2 @@
 * Unity Networking Tutorial: http://forum.unity3d.com/threads/29015-UniKnowledge-entry-Unity-Networking-the-Zero-to-Hero-guide
-* Game netwotking: http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/
+* Game Networking: http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/
