@@ -3,6 +3,7 @@
 --- !u!78 &1
 TagManager:
   tags:
+  - Waypoint
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
@@ -40,4 +41,12 @@ TagManager:
   - name: Default
     userID: 0
     uniqueID: 0
+    locked: 0
+  - name: Background
+    userID: 2
+    uniqueID: 3332795839
+    locked: 0
+  - name: Units
+    userID: 1
+    uniqueID: 1642068805
     locked: 0
